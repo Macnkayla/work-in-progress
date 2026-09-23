@@ -7,4 +7,5 @@ this is a work in progress
   <body> <h1> Random </h1> </body>
   <h3> there's not much I have to say other than this is a random thing I'm doing.. Maybe I can get an image in here? Hopefully. </h3>
   <img src="https://drive.google.com/file/d/1jv0R1n5NoyX4b82CWUMxTZnrD4-cxicj/view?usp=drivesdk"/> 
+<h3> nevermind it didn't work :( </h3>
 </html>
