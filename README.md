@@ -9,4 +9,5 @@ this is a work in progress
   <img src="https://drive.google.com/file/d/1jv0R1n5NoyX4b82CWUMxTZnrD4-cxicj/view?usp=drivesdk"/> 
 <h3> nevermind it didn't work :( </h3>
   <h3> I'll try adding an image next time I guess, but it was fun trying to. I don't even need to make a title! Or, I think the site already does that for me. Oh well. </h3>
+  <h3> maybe I can get a random image from google or something. </h3>
 </html>
