@@ -2,7 +2,8 @@
 theres nothing to say im just testing this out
 <!DOCTYPE_html>
 <html>
-  <title> this is a work in progress </title>
+  <title> this is a work in progress 
+  </title>
   <head> first time using github </head>
   <body> <h1> Random </h1> </body>
   <h3> there's not much I have to say other than this is a random thing I'm doing.. Maybe I can get an image in here? Hopefully. </h3>
